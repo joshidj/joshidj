@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshidj
 - 👀 I’m interested in learning programming.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, JavaScript
 - 💞️ I’m looking to collaborate on python + django
 - 📫 How to reach me ...
 
